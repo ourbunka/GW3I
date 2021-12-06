@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/ourGwei/index.html/static/css/main.85d616cd.chunk.css",
-    "main.js": "/ourGwei/index.html/static/js/main.2f874547.chunk.js",
-    "main.js.map": "/ourGwei/index.html/static/js/main.2f874547.chunk.js.map",
-    "runtime-main.js": "/ourGwei/index.html/static/js/runtime-main.e38c0953.js",
-    "runtime-main.js.map": "/ourGwei/index.html/static/js/runtime-main.e38c0953.js.map",
-    "static/js/2.4946f39a.chunk.js": "/ourGwei/index.html/static/js/2.4946f39a.chunk.js",
-    "static/js/2.4946f39a.chunk.js.map": "/ourGwei/index.html/static/js/2.4946f39a.chunk.js.map",
-    "static/js/3.637260d8.chunk.js": "/ourGwei/index.html/static/js/3.637260d8.chunk.js",
-    "static/js/3.637260d8.chunk.js.map": "/ourGwei/index.html/static/js/3.637260d8.chunk.js.map",
-    "index.html": "/ourGwei/index.html/index.html",
-    "static/css/main.85d616cd.chunk.css.map": "/ourGwei/index.html/static/css/main.85d616cd.chunk.css.map",
-    "static/js/2.4946f39a.chunk.js.LICENSE.txt": "/ourGwei/index.html/static/js/2.4946f39a.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/ourGwei/index.html/static/media/logo.6ce24c58.svg",
-    "static/media/ourbunka_logo.6f04b89f.svg": "/ourGwei/index.html/static/media/ourbunka_logo.6f04b89f.svg"
+    "main.css": "/ourGwei/static/css/main.85d616cd.chunk.css",
+    "main.js": "/ourGwei/static/js/main.95a3772e.chunk.js",
+    "main.js.map": "/ourGwei/static/js/main.95a3772e.chunk.js.map",
+    "runtime-main.js": "/ourGwei/static/js/runtime-main.26f9e2c0.js",
+    "runtime-main.js.map": "/ourGwei/static/js/runtime-main.26f9e2c0.js.map",
+    "static/js/2.4946f39a.chunk.js": "/ourGwei/static/js/2.4946f39a.chunk.js",
+    "static/js/2.4946f39a.chunk.js.map": "/ourGwei/static/js/2.4946f39a.chunk.js.map",
+    "static/js/3.637260d8.chunk.js": "/ourGwei/static/js/3.637260d8.chunk.js",
+    "static/js/3.637260d8.chunk.js.map": "/ourGwei/static/js/3.637260d8.chunk.js.map",
+    "index.html": "/ourGwei/index.html",
+    "static/css/main.85d616cd.chunk.css.map": "/ourGwei/static/css/main.85d616cd.chunk.css.map",
+    "static/js/2.4946f39a.chunk.js.LICENSE.txt": "/ourGwei/static/js/2.4946f39a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ourGwei/static/media/logo.6ce24c58.svg",
+    "static/media/ourbunka_logo.6f04b89f.svg": "/ourGwei/static/media/ourbunka_logo.6f04b89f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e38c0953.js",
+    "static/js/runtime-main.26f9e2c0.js",
     "static/js/2.4946f39a.chunk.js",
     "static/css/main.85d616cd.chunk.css",
-    "static/js/main.2f874547.chunk.js"
+    "static/js/main.95a3772e.chunk.js"
   ]
 }
