@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/GW3I/static/css/main.ee391b7f.chunk.css",
-    "main.js": "/GW3I/static/js/main.bc2e90c7.chunk.js",
-    "runtime-main.js": "/GW3I/static/js/runtime-main.7985e426.js",
-    "static/js/2.f8b6feaf.chunk.js": "/GW3I/static/js/2.f8b6feaf.chunk.js",
-    "static/js/3.ccd45a24.chunk.js": "/GW3I/static/js/3.ccd45a24.chunk.js",
+    "main.js": "/GW3I/static/js/main.d4aed3b8.chunk.js",
+    "runtime-main.js": "/GW3I/static/js/runtime-main.4ac45d66.js",
+    "static/js/2.577c8f54.chunk.js": "/GW3I/static/js/2.577c8f54.chunk.js",
+    "static/js/3.8528a9a6.chunk.js": "/GW3I/static/js/3.8528a9a6.chunk.js",
     "index.html": "/GW3I/index.html",
-    "static/js/2.f8b6feaf.chunk.js.LICENSE.txt": "/GW3I/static/js/2.f8b6feaf.chunk.js.LICENSE.txt",
+    "static/js/2.577c8f54.chunk.js.LICENSE.txt": "/GW3I/static/js/2.577c8f54.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/GW3I/static/media/logo.6ce24c58.svg",
     "static/media/ourbunka_logo.6f04b89f.svg": "/GW3I/static/media/ourbunka_logo.6f04b89f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7985e426.js",
-    "static/js/2.f8b6feaf.chunk.js",
+    "static/js/runtime-main.4ac45d66.js",
+    "static/js/2.577c8f54.chunk.js",
     "static/css/main.ee391b7f.chunk.css",
-    "static/js/main.bc2e90c7.chunk.js"
+    "static/js/main.d4aed3b8.chunk.js"
   ]
 }
