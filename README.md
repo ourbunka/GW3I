@@ -1,4 +1,4 @@
-# ourGwei
+# GW3I
 Ethereum Mainnet Gas Fees Tracker
 
 install on android : "https://play.google.com/store/apps/details?id=com.ourbunka.gw3i"
