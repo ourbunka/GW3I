@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/GW3I/static/css/main.ee391b7f.chunk.css",
-    "main.js": "/GW3I/static/js/main.11303461.chunk.js",
+    "main.js": "/GW3I/static/js/main.c36f8bf5.chunk.js",
     "runtime-main.js": "/GW3I/static/js/runtime-main.435821e7.js",
     "static/js/2.bacd199d.chunk.js": "/GW3I/static/js/2.bacd199d.chunk.js",
     "static/js/3.45f2de73.chunk.js": "/GW3I/static/js/3.45f2de73.chunk.js",
@@ -14,6 +14,6 @@
     "static/js/runtime-main.435821e7.js",
     "static/js/2.bacd199d.chunk.js",
     "static/css/main.ee391b7f.chunk.css",
-    "static/js/main.11303461.chunk.js"
+    "static/js/main.c36f8bf5.chunk.js"
   ]
 }
